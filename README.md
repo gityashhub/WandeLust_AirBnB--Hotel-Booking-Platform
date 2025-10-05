@@ -3,7 +3,7 @@
 WanderLust is a full-stack web application inspired by Airbnb, enabling users to create, explore, and book property listings. Built with Node.js, Express, MongoDB, and modern security practices, it offers a complete hotel booking experience with role-based access control.
 
 ## 🚀 Live Demo
-[Click here to visit the website](https://bookhotel-3jiz.onrender.com/)
+[Click here to visit the website](https://wandelust-airbnb-hotel-booking-platform.onrender.com/)
 
 ---
 
