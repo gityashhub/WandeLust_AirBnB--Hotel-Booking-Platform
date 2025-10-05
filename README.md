@@ -211,7 +211,7 @@ WanderLust/
 3. **Get MongoDB Atlas Connection String**
    - Create a free account at [mongodb.com/atlas](https://www.mongodb.com/atlas)
    - Create a cluster and database
-   - Get your connection string (format: `mongodb+srv://username:password@cluster.mongodb.net/dbname`)
+   - Get your connection string
 
 4. **Get Cloudinary Credentials**
    - Create a free account at [cloudinary.com](https://cloudinary.com)
